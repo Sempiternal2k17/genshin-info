@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+.img-sempi img{
+    width: 25%;
+}
+
+.ul-sempi{
+    display: flex;
+}
+
+.li-sempi{
+    list-style: none;
+    color: white;
+    margin-left: 3%;
+    margin-right: 3%;
+    cursor: pointer;
+}
+
